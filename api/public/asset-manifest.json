@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e23f9fd.css",
+    "main.js": "/static/js/main.4fad4db9.js",
+    "static/js/867.5a99d38f.chunk.js": "/static/js/867.5a99d38f.chunk.js",
+    "static/js/239.dfdb0d71.chunk.js": "/static/js/239.dfdb0d71.chunk.js",
+    "static/js/213.7c76c3c0.chunk.js": "/static/js/213.7c76c3c0.chunk.js",
+    "static/js/455.0d6839a6.chunk.js": "/static/js/455.0d6839a6.chunk.js",
+    "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
+    "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/logotropical.png": "/static/media/logotropical.1a6ac25d779c63f5abea.png",
+    "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/index.html",
+    "main.8e23f9fd.css.map": "/static/css/main.8e23f9fd.css.map",
+    "main.4fad4db9.js.map": "/static/js/main.4fad4db9.js.map",
+    "867.5a99d38f.chunk.js.map": "/static/js/867.5a99d38f.chunk.js.map",
+    "239.dfdb0d71.chunk.js.map": "/static/js/239.dfdb0d71.chunk.js.map",
+    "213.7c76c3c0.chunk.js.map": "/static/js/213.7c76c3c0.chunk.js.map",
+    "455.0d6839a6.chunk.js.map": "/static/js/455.0d6839a6.chunk.js.map",
+    "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e23f9fd.css",
+    "static/js/main.4fad4db9.js"
+  ]
+}

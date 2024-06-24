@@ -1,0 +1,30 @@
+.dashboard-container {
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+    width: 100%;
+}
+
+.menubar {
+    width: 100%;
+  
+}
+
+.dashboard-content {
+    width: 100%;
+    margin: 0;
+   
+    box-sizing: border-box;
+}
+
+.speed-dial {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+}
